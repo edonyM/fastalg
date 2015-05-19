@@ -41,7 +41,7 @@ void list_init(List *list, void (*destroy)(void *data));
 
 void list_destroy(List *list);
 
-int list_ins_next(List *list, ListElemt *element, const void *data);
+int list_ins_next(List *list, ListElemt *element, const void *data);  //NOTE(edony):when element == NULL, handle head of the list.
 
 int list_rem_next(List *list, ListElemt *element, void **data);
 
