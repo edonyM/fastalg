@@ -14,12 +14,32 @@ fast implementation algorithm method for self-learning algorithm.
 
 > 1. list
 
->> * list
+>> * link list
 
 >> * double list
 
 >> * circle list
 
+>> * orthogonal list
+
 > 2. stack
 
+>> ``` Implement with list and array ```
+
 > 3. queue
+
+>> ```Implement with list and array ```
+
+> 4. tree
+
+>> * binary tree
+
+>> * binary search tree
+
+>> * AVL tree
+
+>> * heap
+
+>> * Huffman tree
+
+>> * set
