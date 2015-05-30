@@ -30,7 +30,9 @@ fast implementation algorithm method for self-learning algorithm.
 
 >> ```Implement with list and array ```
 
-> 4. tree
+> 4. set
+
+> 5. tree
 
 >> * binary tree
 
@@ -42,4 +44,8 @@ fast implementation algorithm method for self-learning algorithm.
 
 >> * Huffman tree
 
->> * set
+> 6. heap
+
+> 7. priority queue
+
+> 8. graph
